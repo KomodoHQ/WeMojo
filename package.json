@@ -1,7 +1,7 @@
 {
   "name": "wemojo",
   "description": "Node module for interfacing with Belkin Wemo devices",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "",
   "author": {
     "name": "Will McKenzie",

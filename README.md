@@ -15,7 +15,7 @@ Client.startDiscovery()
 Client.emitter.on('wemo:device-found', function (device) {
 
     if (device.deviceType == 'socket')
-        device.on()
+        device.turnOn()
 
 })
 ```
